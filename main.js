@@ -28,7 +28,8 @@ function openModal(buttonNumber) {
             + " De nuevo, FELIZ CUMPLEAÑOSSSS!!!";
             break;
           case 5:
-                modalText.textContent = "Con muchisimo amor. Atentamente, Ingeniero en Ciencias y Sistemas de Huawei, Juan Sebastian Julajuj Zelada.";
+              modalText.textContent = "Con muchisimo amor. Atentamente, \nIngeniero en Ciencias y Sistemas de Huawei, Juan Sebastian Julajuj Zelada.\n5 de Mayo 2024";
+
                 break;
           default:
             modalText.textContent = "Texto del modal.";
